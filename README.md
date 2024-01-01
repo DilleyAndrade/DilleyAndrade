@@ -11,7 +11,7 @@
 
 ###
 
-<div style="background:white padding: 5px;;" align="center">
+<div style="background:white; padding: 5px;" align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
