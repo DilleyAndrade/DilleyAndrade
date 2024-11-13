@@ -28,7 +28,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/dilleyandrade/" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://www.linkedin.com/in/dilley-andrade/" target="blank" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://api.whatsapp.com/send?phone=5581986632609" target="blank" ><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=Whatsapp&label=&color=0a6921&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
 </div>
