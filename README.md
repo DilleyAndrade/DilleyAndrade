@@ -49,6 +49,3 @@
 </div>
 
 ###
-
-![snake gif](https://raw.githubusercontent.com/dilleyandrade/dilleyandrade/output/github-contribution-grid-snake-dark.svg)
-
