@@ -1,4 +1,4 @@
-<h2 align="center">Dilley Andrade | Fullstack developer | Node/React</h2>
+<h2 align="center">Dilley Andrade | Fullstack developer | Data Engineer</h2>
 
 ###
 
