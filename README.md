@@ -1,4 +1,4 @@
-<h2 align="center">Dilley Andrade | Fullstack developer | Data Engineer</h2>
+<h2 align="center">Dilley Andrade | Fullstack Developer | Data Engineer</h2>
 
 ###
 
