@@ -1,4 +1,4 @@
-<h1 align="center">Dilley Andrade<br>Engenheiro de Dados | Typescript | SQL | Python | PostgreSQL | Sql Server | ETL | AWS</h2></h1>
+<h1 align="center">Dilley Andrade<br>Engenheiro de Dados | Typescript | SQL | Python | ETL | AWS</h2></h1>
 
 
 ###
