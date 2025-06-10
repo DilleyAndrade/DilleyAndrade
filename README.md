@@ -1,4 +1,4 @@
-<h1 align="center">Dilley Andrade<br><h2 align="center">Data Enginner | Python | SQL | ETL | AWS</h2></h1>
+<h1 align="center">Dilley Andrade<br>Data Enginner | Python | SQL | ETL | AWS</h2></h1>
 
 
 ###
