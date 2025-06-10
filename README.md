@@ -1,6 +1,5 @@
-<h1 align="center">Dilley Andrade<br></h1>
-<br>
-<h2 align="center">Data Enginner | Python | SQL | ETL | AWS</h2>
+<h1 align="center">Dilley Andrade<br><h2 align="center">Data Enginner | Python | SQL | ETL | AWS</h2></h1>
+
 
 ###
 
