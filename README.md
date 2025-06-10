@@ -58,7 +58,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DilleyAndrade&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilleyAndrade&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=DilleyAndrade&theme=dracula&column=-1&row=1&margin-w=8&margin-h=55&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
