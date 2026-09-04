@@ -1,4 +1,4 @@
-<h1 align="center">Dilley Andrade<br>Engenheiro de Dados | Data Engineer<br>AWS | Python | Scala | Spark | Airflow | DBT | SQL</h1>
+<h1 align="center">Dilley Andrade<br>Engenheiro de Dados | Data Engineer<br>Databricks | Data Quality | AWS | Python | Scala | SQL | Airflow | DBT | ETL/ELT | Spark | IA</h1>
 
 ###
 
